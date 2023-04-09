@@ -56,10 +56,6 @@ If you encounter any issues with setting up or using the GY-271 compass magnetom
 
 - **Consult documentation:** Refer to the documentation provided with your GY-271 module and Arduino board for troubleshooting guidance specific to your hardware.
 
-## Conclusion
-
-With the provided code and instructions, you can easily set up and use the GY-271 compass magnetometer module with your Arduino microcontroller. Whether you want to build a compass, detect magnetic anomalies, or perform other magnetometer-related tasks, this code provides a solid starting point. Do not forget to customize the code with your own calibration factors and application-specific logic to suit your specific use case.
-
 If you have any questions, issues, or contributions, feel free to raise them on the GitHub repository. Happy magnetometer tinkering!
 
 ## License
