@@ -41,7 +41,7 @@ float magneticFieldZ = z * 0.92 / 1000.0; // Replace 0.92 with your specific cal
 
 // Use the magnetic field data for your specific application
 // e.g., calculate compass heading, detect magnetic anomalies, etc.
-
+```
 ## Troubleshooting
 
 If you encounter any issues with setting up or using the GY-271 compass magnetometer, here are some troubleshooting tips:
